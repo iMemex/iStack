@@ -6,6 +6,6 @@
 
 | Layer       | Language    | Framework              |
 | :---:       | :---:       | :---:                  |
-| GUI         | CSS/HTML/JS | MDB/Angular/React/Vue/ |
+| GUI         | CSS/HTML/JS | JS-IPFS-IO             |
 | Personal    | NodeJS      | JS-IPFS                |
 | Distributed | GoLang      | GO-IPFS                |
