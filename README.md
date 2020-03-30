@@ -4,10 +4,8 @@
 
 :european_castle::books::japanese_castle:
 
----------------------------------------
-|GUI|CSS/HTML/JS|Angular/Vue/React/MDB|
----------------------------------------
-|Personal|NodeJS|JS-IPFS|
----------------------------------------
-|Distributed|GoLang|GO-IPFS|
----------------------------------------
+| Layer       | Language    | Framework              |
+| :---:       | :---:       | :---:                  |
+| GUI         | CSS/HTML/JS | MDB/Angular/React/Vue/ |
+| Personal    | NodeJS      | JS-IPFS                |
+| Distributed | GoLang      | GO-IPFS                |
