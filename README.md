@@ -4,8 +4,8 @@
 
 :european_castle::books::japanese_castle:
 
-| Layer       | Language    | Framework              |
+| Layer       | Language    | Facilities             |
 | :---:       | :---:       | :---:                  |
-| GUI         | CSS/HTML/JS | JS-IPFS-IO             |
+| GUI         | CSS/HTML/JS | Electron[Cordova]      |
 | Personal    | NodeJS      | JS-IPFS                |
 | Distributed | GoLang      | GO-IPFS                |
